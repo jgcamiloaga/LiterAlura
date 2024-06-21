@@ -1,11 +1,4 @@
-<div style="position: relative; display: inline-block; text-align: center;">
-    <img src="assets/ImagenBiblioteca.jpg" alt="Logo del Proyecto" style="width: 100%;">
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
-         color: white; font-size: 30px; font-weight: bold; background-color: rgba(0, 0, 0, 0.5); 
-         padding: 10px; font-family: 'Italic', sans-serif;font-style: oblique;">
-      <h3 align="center"> LiterAlura </h3> 
-    </div>
-</div>
+<img src="assets/ImagenBiblioteca.jpg" alt="Logo del Proyecto" style="width: 100%;">
 
 # CHALLENGE Nº 3 - LITERALURA
 
